@@ -2,16 +2,24 @@
 
 # Introducción a React Native
 
-> [Antes de iniciar leer las instrucciones](./instructions.md)
+> [Instrucciones](./instructions.md)
 
-This README would normally document whatever steps are necessary to get the application up and running.
+## Table of contents
 
-Things you may want to cover:
+- [Description](#Description)
+- [How to install](#how-to-install-and-run-the-project)
+- [Credits](#credits)
 
-- Title or Project Name
-- Table of contents
-- Description. A brief description of what the project is about
-- How to Install and Run the Project.
-- How to Use the Project.
-- Credits
-- Badges
+## Description
+
+This is introduction to React Native application, contains an app header and a button that counts the times it's pressed.
+
+## How to Install and Run the Project.
+
+- Run on an android device
+
+### npm run android
+
+## Credits
+
+Made by: Erick Cuevas Ceballos
